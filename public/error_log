@@ -1,0 +1,241 @@
+[21-Apr-2026 11:06:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 14
+[21-Apr-2026 11:06:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 14
+[21-Apr-2026 11:06:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 14
+[21-Apr-2026 11:07:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 14
+[21-Apr-2026 11:07:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 14
+[21-Apr-2026 11:07:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 14
+[21-Apr-2026 11:08:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:11:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:11:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:12:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:12:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:13:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:13:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:13:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:14:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:14:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:16:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:16:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:16:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:16:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:16:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:17:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Core\App" not found in /home/mitra432/public_html/scopus/public/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mitra432/public_html/scopus/public/index.php on line 19
+[21-Apr-2026 11:19:32 UTC] PHP Parse error:  syntax error, unexpected identifier "url" in /home/mitra432/public_html/scopus/app/Core/App.php on line 33
+[21-Apr-2026 11:19:34 UTC] PHP Parse error:  syntax error, unexpected identifier "url" in /home/mitra432/public_html/scopus/app/Core/App.php on line 33
+[21-Apr-2026 11:19:34 UTC] PHP Parse error:  syntax error, unexpected identifier "url" in /home/mitra432/public_html/scopus/app/Core/App.php on line 33
+[21-Apr-2026 11:19:34 UTC] PHP Parse error:  syntax error, unexpected identifier "url" in /home/mitra432/public_html/scopus/app/Core/App.php on line 33
+[21-Apr-2026 11:21:04 UTC] PHP Parse error:  syntax error, unexpected string content "\App\Models\' . $model;" in /home/mitra432/public_html/scopus/app/Core/Controller.php on line 10
