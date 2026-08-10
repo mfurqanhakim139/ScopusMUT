@@ -1,0 +1,29 @@
+# Application secrets and config
+.env
+config.php
+
+# Log files
+*.log
+error_log
+/logs/*
+
+# Composer dependencies
+/vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db# Application secrets and config
+.env
+config.php
+
+# Log files
+*.log
+error_log
+/logs/*
+
+# Composer dependencies
+/vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
